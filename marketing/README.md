@@ -31,9 +31,13 @@ marketing/
 └── avaliacoes-google/           histórico do /responder-avaliacoes (opcional)
 ```
 
+`conteudo/` também recebe `roteiro-<YYYY-MM-DD>.md`, saída do `/roteiro-conteudo`
+(pauta semanal de ideias + roteiro de vídeo/stories).
+
 ## Como funciona
 
 - **`/carrossel` ou `/publicar-tema`** → cria pasta em `conteudo/<tipo>-<tema>-<data>/`
+- **`/roteiro-conteudo`** → cria arquivo em `conteudo/roteiro-<data>.md`
 - **`/seo`** → preenche os 8 arquivos numerados em `seo/`
 - **`/anuncio-google`** → cria pasta em `campanhas/google-ads-<data>/` com CSVs
 - **`/relatorio-ads`** → cria arquivo em `campanhas/relatorios/<data>-relatorio.md`

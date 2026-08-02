@@ -8,13 +8,13 @@
 
 ## Cores
 
-- **Fundo principal:**
+- **Fundo principal:** #edeae2 (bege claro)
 
-- **Cor de destaque / CTA:**
+- **Cor de destaque / CTA:** #795538 (marrom — cor dominante da logo)
 
-- **Texto principal:**
+- **Texto principal:** #000000 (preto)
 
-- **Fundo alternativo / cards:**
+- **Fundo alternativo / cards:** #ffffff (branco)
 
 - **Cor proibida:**
 
@@ -22,11 +22,11 @@
 
 ## Tipografia
 
-- **Títulos e destaques:**
+- **Títulos e destaques:** Montserrat
 
-- **Corpo, subtítulos e botões:**
+- **Corpo, subtítulos e botões:** Poppins
 
-- **Peso do título:**
+- **Peso do título:** Bold / Semibold
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Logo
 
-- **Arquivo:** *(ex: identidade/logo.png ou identidade/logo.svg)*
+- **Arquivo:** identidade/logo.svg
 - **Versão pra fundo escuro:** *(se tiver — ex: identidade/logo-branco.png)*
 - **Onde usar:** slide final do carrossel (CTA), header de propostas, slides de apresentação
 - **Tamanho sugerido:** largura entre 120-200px nos HTMLs

@@ -113,3 +113,21 @@ Quando o usuário pedir skill nova:
 4. Se a skill precisar de arquivos de apoio (templates, exemplos),
    criar dentro da pasta da skill
 5. Seguir o fluxo da skill-creator nativa do Claude Code
+
+---
+
+## Regras específicas — Dra. Yasmim Almeida (solopreneur)
+
+Perfil aplicado: solopreneur (marca pessoal, uma pessoa só).
+
+**Estrutura de pastas adicional (além da base):**
+- `produtos/` — produtos próprios (cursos, ebooks, ofertas), se/quando existirem
+- `audiencia/` — listas, dados, contatos da base de pacientes/seguidores
+- `tarefas.md` — o que tá em jogo agora
+
+Contexto do negócio, tom de voz e foco atual vivem em `_memoria/` (ver
+seção "Contexto do negócio" no topo desse arquivo) — não duplicar aqui.
+
+**Gargalo atual:** captação de pacientes. Toda produção de conteúdo e
+qualquer sugestão de prioridade deve mirar nisso primeiro (ver
+`_memoria/estrategia.md`).
